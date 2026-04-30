@@ -87,8 +87,66 @@
     <a href="http://www.google.com">Visitar o Google</a><br>
     <a href="https://www.youtube.com/watch?v=eb5tPfOeexI">youtube aula</a>
 
-    <hr>
+    <hr><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>oooooooooooooooooooooooooooooooooooo</p>
+    <a href="../index.html">voltar para index</a><br><br><br>
+<hr><br>
+    <a href="../sobre.html"> Tem essa segunda opção se quiser.Volta para a pagina antiga</a><br>
+    <hr><br>
 
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aula 7</title>
+</head>
+<body>
+    <!--Vamos aprender links-->
+    <h1> Pagina pricipal</h1>
+    <p> Seja bem vindo a pagina pricinpal</p>
+    
+    <hr>
+    <a href="http://www.google.com">Visitar o Google</a><br>
+    <a href="https://www.youtube.com">youtube aula</a>
+    <hr>
+    <!-- Link para o site do Roblox(link absoluto) -->
+    <a href="https://www.roblox.com/pt"target="_blank"> roblox</a> site
+<hr>
+    <!-- Link para a pagina sobre.html(link relativo) -->
+    <a href="sobre.html">Sobre mim</a><br>
+    <a href="amo_minha_namorada/v.html">v.folder</a><br>
+    <hr><br>
+    <!-- Vou treianr fazendo a pagina index ir para o sobre e do sobre para v e depois voltar 
+     para o index e faazer ela voltar tudo
+     -->
+     <!-- bora começar-->
+      <a href="sobre.html">Primeira pagina</a> esso primeiro link vai para a pagina sobre do html<br><hr>
+    <a href="amo_minha_namorada/v.html"> Essa vai para a ultima pagina direto.</a>
+    <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1:>Sobre mim</h1>
+    <p>orem ipsum dolor sit amet consectetur, adipisicing elit. Minus aliquam consequatur voluptatum sit recusandae. Corrupti reprehenderit dolores placeat quisquam nostrum, ratione voluptas officiis perspiciatis perferendis velit nisi, similique ut iste?</p>
+    <a href="index.html">Voltar para a página principal</a><br>
+    <hr><br>
+    <a href="amo_minha_namorada/v.html">Terceira pagina</a> esse segundo link vai para a pagina v do html<br>
+</body>
+</html>
 
 </body>
 </html>
